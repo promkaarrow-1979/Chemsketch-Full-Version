@@ -241,3 +241,6 @@ This repository serves as the official landing page for ChemSketch. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ChemSketch today!**
+
+---
+**Last updated:** 2026-09-11 17:42:16 UTC
