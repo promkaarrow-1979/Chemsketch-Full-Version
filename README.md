@@ -243,4 +243,4 @@ This repository serves as the official landing page for ChemSketch. The software
 **Get the most recent version of ChemSketch today!**
 
 ---
-**Last updated:** 2026-10-25 14:13:56 UTC
+**Last updated:** 2026-10-25 18:19:31 UTC
